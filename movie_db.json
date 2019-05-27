@@ -1,0 +1,601 @@
+{
+    "movies": [
+        {
+            "year": 2018,
+            "title": "Solo: A Star Wars Story",
+            "director": "Ron Howard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTM2NTI3NTc3Nl5BMl5BanBnXkFtZTgwNzM1OTQyNTM@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1983,
+            "title": "À Nos Amours",
+            "director": "Maurice Pialat",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYWQ0ZGM2NjEtY2Y2OS00MTk0LTk5MTEtODk3NjFhYmQ1MGMwXkEyXkFqcGdeQXVyNzkzOTg4MDM@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 2009,
+            "title": "A Serious Man",
+            "director": "Ethan Coen",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNGZkODlhMjktNzhhMC00YjFiLWJmODMtNjQwOGMzZjMxNTZiXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1994,
+            "title": "Hail Caesar",
+            "director": "Anthony Michael Hall",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjAxNTUzMTc0NV5BMl5BanBnXkFtZTcwMTM1MjYyMQ@@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1981,
+            "title": "Blow Out",
+            "director": "Brian De Palma",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDFiMGMyY2UtNjM5ZC00MmE2LTg5ODctODA2MGUxZTg2NDQ5XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1966,
+            "title": "Blow-Up",
+            "director": "Michelangelo Antonioni",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNWNkOGYzOGYtZGE4OC00NDVjLWExZTYtZWE2YTA3MjI4YThlXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1958,
+            "title": "Bonjour Tristesse",
+            "director": "Otto Preminger",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTAzOTY5NTU2NDJeQTJeQWpwZ15BbWU4MDAyNzMyMTAx._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1979,
+            "title": "Buffet Froid",
+            "director": "Bertrand Blier",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BN2IyNGVkMzEtZjFlYi00OTFhLWJhM2QtNTU4ZTViNWM0MGUyXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR10,0,101,150_.jpg"
+        },
+        {
+            "year": 2005,
+            "title": "Capote",
+            "director": "Bennett Miller",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTczMzU0MjM1MV5BMl5BanBnXkFtZTcwMjczNzgyNA@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1974,
+            "title": "Celine and Julie Go Boating",
+            "director": "Jacques Rivette",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYzg0NzljOWMtMGY5Mi00NmU2LWIzNzktZDE3YzNlZWMwZWFkXkEyXkFqcGdeQXVyNTc1NDM0NDU@._V1_SY150_CR7,0,101,150_.jpg"
+        },
+        {
+            "year": 2018,
+            "title": "Climax",
+            "director": "Gaspar Noé",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjllYmQ2OGQtN2IxZC00ODJiLWI4NjQtYmNlZjYzNzUzYjkyXkEyXkFqcGdeQXVyNTAzMTY4MDA@._V1_SY150_CR4,0,101,150_.jpg"
+        },
+        {
+            "year": 2003,
+            "title": "Coffee and Cigarettes",
+            "director": "Jim Jarmusch",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYzQxNzMzZTEtNjc1YS00NzExLWI0ZGItMWMxZTQzNDI1MjQ3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1998,
+            "title": "Autumn Tale",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNGFlNmNiMzMtZmM4NC00YjkxLTg4NzctZTEwMmM1ZDIwODhkXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR3,0,101,150_.jpg"
+        },
+        {
+            "year": 2005,
+            "title": "La fabrique du Conte d'ete",
+            "genre": "movie",
+            "director": "Françoise Etchegaray"
+        },
+        {
+            "year": 2014,
+            "title": "Winter's Tale",
+            "director": "Akiva Goldsman",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYTFmZDgwMDctYWI2ZS00MDhmLTg1ZDAtMGUzZjVmZTM3ZTM5XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1990,
+            "title": "A Tale of Springtime",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDMzYTc4ZDctZTgyYi00YjNlLWEzMDgtMGEyYTEwOGVlMjc3XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR6,0,101,150_.jpg"
+        },
+        {
+            "year": 2015,
+            "title": "Daft Punk Unchained",
+            "director": "Hervé Martin-Delpierre",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BODE4MWU5NDgtMmZkMi00NGIyLWI3NDQtN2JlMWMwYTdlNDYyXkEyXkFqcGdeQXVyMzQzNzgwMjY@._V1_SY150_CR1,0,101,150_.jpg"
+        },
+        {
+            "year": 2004,
+            "title": "Nobody Knows",
+            "director": "Hirokazu Koreeda",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNzMzNzA5ODgzNF5BMl5BanBnXkFtZTcwMjI2MDgyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1995,
+            "title": "Dead Man",
+            "director": "Jim Jarmusch",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYTJlZmQ1OTAtODQzZi00NGIzLWI1MmEtZGE4NjFlOWRhODIyXkEyXkFqcGdeQXVyNTc1NTQxODI@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1989,
+            "title": "Dead Poets Society",
+            "director": "Peter Weir",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOGYwYWNjMzgtNGU4ZC00NWQ2LWEwZjUtMzE1Zjc3NjY3YTU1XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2015,
+            "title": "Dheepan",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMzc1NzgwMzgyM15BMl5BanBnXkFtZTgwMzAwMzQ1ODE@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1964,
+            "title": "Dr. Strangelove or: How I Learned to Stop Worrying and Love the Bomb",
+            "director": "Stanley Kubrick",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZWI3ZTMxNjctMjdlNS00NmUwLWFiM2YtZDUyY2I3N2MxYTE0XkEyXkFqcGdeQXVyNzkwMjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2017,
+            "title": "Dunkirk",
+            "director": "Christopher Nolan",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BN2YyZjQ0NTEtNzU5MS00NGZkLTg0MTEtYzJmMWY3MWRhZjM2XkEyXkFqcGdeQXVyMDA4NzMyOA@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1983,
+            "title": "First Name: Carmen",
+            "director": "Jean-Luc Godard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTQ0MjIyMzc5NF5BMl5BanBnXkFtZTcwMzUyMzgxMQ@@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2018,
+            "title": "Green Book",
+            "director": "Peter Farrelly",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYzIzYmJlYTYtNGNiYy00N2EwLTk4ZjItMGYyZTJiOTVkM2RlXkEyXkFqcGdeQXVyODY1NDk1NjE@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2012,
+            "title": "Holy Motors",
+            "director": "Leos Carax",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BODk2MDc4MDk2OF5BMl5BanBnXkFtZTcwMTcyODY1OA@@._V1_SY150_CR1,0,101,150_.jpg"
+        },
+        {
+            "year": 2004,
+            "title": "House of Flying Daggers",
+            "director": "Yimou Zhang",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMWYzM2JmOWItN2IxZC00MmFjLWEyMTQtYTQ2ODBiNjRlYmZlXkEyXkFqcGdeQXVyNzI1NzMxNzM@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 2016,
+            "title": "I, Daniel Blake",
+            "director": "Ken Loach",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTQ4NTMzMTk4NV5BMl5BanBnXkFtZTgwNTU5MjE4MDI@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2002,
+            "title": "Irreversible",
+            "director": "Gaspar Noé",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNTdhM2FhOWItM2NiNC00YjYwLTkxZGEtYzNhYWM3YzU2NDQzXkEyXkFqcGdeQXVyMTYzMDM0NTU@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2018,
+            "title": "Isle of Dogs",
+            "director": "Wes Anderson",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTYyOTUwNjAxM15BMl5BanBnXkFtZTgwODcyMzE0NDM@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1968,
+            "title": "Je t'aime, je t'aime",
+            "director": "Alain Resnais",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTY2ODkzNjE3MF5BMl5BanBnXkFtZTgwMDA1NDEyMTE@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1962,
+            "title": "Jules and Jim",
+            "director": "François Truffaut",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZTM1MTRiNDctMTFiMC00NGM1LTkyMWQtNTY1M2JjZDczOWQ3XkEyXkFqcGdeQXVyMDI3OTIzOA@@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 2016,
+            "title": "It's Only the End of the World",
+            "director": "Xavier Dolan",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BODJiZWMyMjQtYjM4Zi00MzVjLWEzZGMtZThlNGJlMmRkYjYxXkEyXkFqcGdeQXVyNDkzNTM2ODg@._V1_SY150_CR1,0,101,150_.jpg"
+        },
+        {
+            "year": 1979,
+            "title": "Kramer vs. Kramer",
+            "director": "Robert Benton",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNDM3YjNlYmMtOGY3NS00MmRjLWIyY2UtNDA0MWM3OTNlZTY2XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1987,
+            "title": "Boyfriends and Girlfriends",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjgwMDMzMDQtNWY1Mi00NTQ1LWIzMDUtMjUxMjU1MjYxNTQ5XkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR3,0,101,150_.jpg"
+        },
+        {
+            "year": 1972,
+            "title": "Chloe in the Afternoon",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOWMzYTA5YzEtYjBjOS00NWQ5LTkwZTgtODkyYmRkMzVmYTI0XkEyXkFqcGdeQXVyODQ0OTczOQ@@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1998,
+            "title": "L'armée des ombres",
+            "director": "Dominique Ferré",
+            "genre": "episode",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZDlmZDU1Y2ItNjFjMC00YWFkLTk5YjEtYzdjMGE5MzE4NDdhXkEyXkFqcGdeQXVyMzE4OTQzOTg@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1964,
+            "title": "That Man from Rio",
+            "director": "Philippe de Broca",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNWU3ZjBjMGUtYWYyMy00Zjg3LTgzNzUtMzk1MTMzM2U2YjhlXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1993,
+            "title": "The Scent of Green Papaya",
+            "director": "Anh Hung Tran",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjE2NDk1MjA4NF5BMl5BanBnXkFtZTcwNzIyNDQzMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 2018,
+            "title": "The Ballad of Buster Scruggs",
+            "director": "Ethan Coen",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjRkYTI3M2EtZWQ4Ny00OTA2LWFmMTMtY2E4MTEyZmNjOTMxXkEyXkFqcGdeQXVyNDg4NjY5OTQ@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1967,
+            "title": "La Collectionneuse",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMzMzMjIwNTI3MF5BMl5BanBnXkFtZTgwNjY1NzEwNzE@._V1_SY150_CR6,0,101,150_.jpg"
+        },
+        {
+            "year": 1981,
+            "title": "The Aviator's Wife",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BODNhOGM3ZTgtODhiZC00NGQzLTg3MDktMzcxZGMzM2YzZjUwXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR6,0,101,150_.jpg"
+        },
+        {
+            "year": 1955,
+            "title": "Rebel Without a Cause",
+            "director": "Nicholas Ray",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjMwNWIwYzAtMWVhZi00YzQ2LTlmNGYtOTg3NDdkNTRjOWI2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2013,
+            "title": "The Great Beauty",
+            "director": "Paolo Sorrentino",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjg5NmI3NmUtZDQ2Mi00ZTI0LWE0YzAtOGRhOWJmNDJkOWNkXkEyXkFqcGdeQXVyMzIzNDU1NTY@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1973,
+            "title": "Day for Night",
+            "director": "François Truffaut",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYWQzOTZkNjUtN2Y0NC00OTNjLWJiNjAtMmYyMmRkNzU3YTlmXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1985,
+            "title": "The Purple Rose of Cairo",
+            "director": "Woody Allen",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BY2E1YWRlNzAtYzAwYy00MDg5LTlmYTUtYjdlZDI0NzFkNjNlL2ltYWdlL2ltYWdlXkEyXkFqcGdeQXVyNjQ2MjQ5NzM@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1982,
+            "title": "A Good Marriage",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMzA3MzM1ZDEtNTU0NC00ZTQ2LWE2MDQtZmJmMTJkZDg2NTYyXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1970,
+            "title": "Claire's Knee",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYTMyMzM1ZWEtZGZhOC00M2U5LThmNjgtMjBhYWVmOTlmOGExXkEyXkFqcGdeQXVyMTMxMTY0OTQ@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1972,
+            "title": "The Tall Blond Man with One Black Shoe",
+            "director": "Yves Robert",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYmIwY2U4ZTgtYjE4Mi00NGQxLTk3ZWQtMWY5YjU4ZGYwNGU3XkEyXkFqcGdeQXVyMjA0MzYwMDY@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1973,
+            "title": "The Man from Acapulco",
+            "director": "Philippe de Broca",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjMzMDVjN2ItYmVjNS00NWVjLTgwYmMtNTdmYTExODM4OGY3XkEyXkFqcGdeQXVyMjgyNjk3MzE@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1986,
+            "title": "Summer",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDU3NmE3MDEtODY0Ni00NDdhLThhYzMtZTM0YjUzMmY1ZTFiXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR6,0,101,150_.jpg"
+        },
+        {
+            "year": 1967,
+            "title": "Le Samouraï",
+            "director": "Jean-Pierre Melville",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMWFjZjRiM2QtZmRkOC00MDUxLTlhYmQtYmY5ZTNiMTI5Nzc2L2ltYWdlXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2003,
+            "title": "The Actors",
+            "director": "Conor McPherson",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTBjNTYwNzQtMzAwOC00MDQxLWFhMjgtNDliZDc5NDljYzU2XkEyXkFqcGdeQXVyMTk3NDAwMzI@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1981,
+            "title": "Chariots of Fire",
+            "director": "Hugh Hudson",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZjNlNDFmM2ItMDE0Zi00MWNiLTljOWQtZGQ1YTQ2ZWUzZDU2XkEyXkFqcGdeQXVyNjc1NTYyMjg@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1984,
+            "title": "Full Moon in Paris",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYzMwNWE3MTMtNGNiOC00NGJhLTlhYjItZTZhMjZlZDY5NmIxXkEyXkFqcGdeQXVyMTAwMzUyOTc@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2002,
+            "title": "Les poupées russes",
+            "genre": "tv series",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYzM4MzI1MTMtZjQzMC00ODkwLWI3ZDgtYzQyNTk0NzY5ZTMwXkEyXkFqcGdeQXVyNTA1NDY3NzY@._V1_SY150_CR65,0,101,150_.jpg"
+        },
+        {
+            "year": 1974,
+            "title": "Going Places",
+            "director": "Bertrand Blier",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOGFkNjZmY2EtYzIxZi00Mzg0LTlmZjEtODc5ZDE5MDhjMGQ5XkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY150_CR7,0,101,150_.jpg"
+        },
+        {
+            "year": 1929,
+            "title": "Pandora's Box",
+            "director": "Georg Wilhelm Pabst",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTQ1NTExNTgxMl5BMl5BanBnXkFtZTgwMzc1MTA5MTE@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1969,
+            "title": "My Night at Maud's",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjc0ZDllZjgtMzgwMS00MTk1LWEwMDItOWM4NGY0YTAwNjliXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1986,
+            "title": "Mauvais Sang",
+            "director": "Leos Carax",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjIwODE4NzI2MF5BMl5BanBnXkFtZTgwMDE2NjQ3MDE@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2001,
+            "title": "Millennium Mambo",
+            "director": "Hsiao-Hsien Hou",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTQ4ODAwMzMwNV5BMl5BanBnXkFtZTcwOTQxMDgyMQ@@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1958,
+            "title": "Mon Oncle",
+            "director": "Jacques Tati",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTRmYTgzNjEtYzM1Ny00Zjk4LWJkZGYtYzhkNGFhNjc3N2M3XkEyXkFqcGdeQXVyNjI5NTk0MzE@._V1_SY150_CR6,0,101,150_.jpg"
+        },
+        {
+            "year": 2003,
+            "title": "Oldboy",
+            "director": "Chan-wook Park",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTI3NTQyMzU5M15BMl5BanBnXkFtZTcwMTM2MjgyMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1978,
+            "title": "Perceval",
+            "director": "Éric Rohmer",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjc2MzY1MjgyNF5BMl5BanBnXkFtZTcwOTk1MTYyMQ@@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1978,
+            "title": "Get Out Your Handkerchiefs",
+            "director": "Bertrand Blier",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZDczZjkyZWUtZmU1Ny00NzIyLWI5ZDEtODJmYzMwMDBhZmE5XkEyXkFqcGdeQXVyMjUzMTYzMDI@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2001,
+            "title": "Read My Lips",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNjYxNTA5NWUtY2FjNC00YTAzLWEwNDYtZGY2Y2E2NjNkZTY5XkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SY150_CR1,0,101,150_.jpg"
+        },
+        {
+            "year": 1994,
+            "title": "See How They Fall",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZjAyOGVjYTMtZGJlMi00M2U4LTg1ZTQtNjIxNTIwODkxYmRlXkEyXkFqcGdeQXVyMzU0NzkwMDg@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1977,
+            "title": "Saturday Night Fever",
+            "director": "John Badham",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOWU0NjZhMWEtMWU2Zi00NTgwLWI1OTQtNDJlNDAyNzdlZjljXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2015,
+            "title": "Skam",
+            "genre": "tv series",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjY5OGI0NmMtZTI2Zi00MmZjLTk5ZjYtZDk0YjM0YjFiZThiXkEyXkFqcGdeQXVyMzk4ODI0MzM@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1987,
+            "title": "Under the Sun of Satan",
+            "director": "Maurice Pialat",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZWQ0MWRjMTUtYzkzOC00MWY2LTg1NjItZWZlYmY0MmIwMmQwXkEyXkFqcGdeQXVyMjI4MjA5MzA@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 1984,
+            "title": "Stranger Than Paradise",
+            "director": "Jim Jarmusch",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjA4MTIxMjk2M15BMl5BanBnXkFtZTgwMTA5ODI4NzM@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1971,
+            "title": "Taking Off",
+            "director": "Milos Forman",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BY2MyNjU3ZDctODk5Mi00ZmVmLTk2NzctMWQwZDVjOTJjODRmXkEyXkFqcGdeQXVyNzc5MjA3OA@@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2005,
+            "title": "The Beat That My Heart Skipped",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMjA5NzM5OTcxMF5BMl5BanBnXkFtZTcwMTExMjAzMQ@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1974,
+            "title": "The Conversation",
+            "director": "Francis Ford Coppola",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYTQxYWJlYTgtMTk5MS00ZGFiLWI5MWItYjhkNjM3YmUyNjYxXkEyXkFqcGdeQXVyNjUwNzk3NDc@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2016,
+            "title": "The Handmaiden",
+            "director": "Chan-wook Park",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BN2NhZjk1ZGEtNzAxNy00ZWI4LWI5ZDItYTVmY2JmZDg2M2U4XkEyXkFqcGdeQXVyNTQ0NTUxOTA@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2015,
+            "title": "The Lobster",
+            "director": "Yorgos Lanthimos",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNDQ1NDE5NzQ1NF5BMl5BanBnXkFtZTgwNzA5OTM2NTE@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 2003,
+            "title": "The Room",
+            "director": "Tommy Wiseau",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BYjEzN2FlYmYtNDkwMC00NGFkLWE5ODctYmE5NmYxNzE2MmRiXkEyXkFqcGdeQXVyMjMwODc5Mw@@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 1994,
+            "title": "The Shawshank Redemption",
+            "director": "Frank Darabont",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMDFkYTc0MGEtZmNhMC00ZDIzLWFmNTEtODM1ZmRlYWMwMWFmXkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2018,
+            "title": "The Sisters Brothers",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTZmNTI1MzMtMGY0ZS00YTRlLWI4OTktYzE3YzZjZjJkNDVlXkEyXkFqcGdeQXVyMjM4NTM5NDY@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2017,
+            "title": "The Square",
+            "director": "Ruben Östlund",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMzc1MDY3NDIwMV5BMl5BanBnXkFtZTgwNzkwNzU0MzI@._V1_SY150_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2004,
+            "title": "The Taste of Tea",
+            "director": "Katsuhito Ishii",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BZjI1MjJmNjgtN2Y4YS00ODZmLWExMmQtNDJkYzRmZTE3MzI4XkEyXkFqcGdeQXVyOTAzODAwOQ@@._V1_SY150_CR2,0,101,150_.jpg"
+        },
+        {
+            "year": 1982,
+            "title": "Tootsie",
+            "director": "Sydney Pollack",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTY4MGJjMTktNGM4Ni00ODliLWJlYjQtNjc4NmY2NjQ3NzEzXkEyXkFqcGdeQXVyMTA0MjU0Ng@@._V1_SX101_CR0,0,101,150_.jpg"
+        },
+        {
+            "year": 2013,
+            "title": "Un Conte de Noël",
+            "genre": "movie",
+            "director": "Louis Giacobetti"
+        },
+        {
+            "year": 1966,
+            "title": "A Man and a Woman",
+            "director": "Claude Lelouch",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BOTcwZGJmMGYtOWY2OC00MWNlLWI3MDMtNGRlMTdmNjFiYTIyXkEyXkFqcGdeQXVyMjQzMzQzODY@._V1_SY150_CR5,0,101,150_.jpg"
+        },
+        {
+            "year": 2009,
+            "title": "A Prophet",
+            "director": "Jacques Audiard",
+            "genre": "movie",
+            "cover": "https://m.media-amazon.com/images/M/MV5BMTUyMjQ1MTY5OV5BMl5BanBnXkFtZTcwNzY5NjExMw@@._V1_SY150_CR3,0,101,150_.jpg"
+        },
+        {
+            "year": 2016,
+            "title": "Victoria",
+            "genre": "tv series",
+            "cover": "https://m.media-amazon.com/images/M/MV5BNzE0YzhlOTEtOWRhNy00ZDA0LWIyNTQtNTBiODRhZTRjZmJmXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_SY150_CR0,0,101,150_.jpg"
+        }
+    ]
+}
